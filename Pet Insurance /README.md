@@ -13,6 +13,6 @@ The solutions are located inside './Solution' folder, there you can find:
   This file has the model predicted labels for the last 1000 records
 
 
-* 'Build a text classifier .ipynb'
+* 'Build a text classifier.ipynb'
 
   For this problem, I've used Power BI to explore the data, you'll find two figures inside this file, I've trained a Text CNN deep learning model to predict the labels, the trained model checkpoint is saved under './Chkpt' folder.
