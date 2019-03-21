@@ -10,3 +10,5 @@ This notebook presents a profound exploratory analysis of the dataset in order t
  - Did men give more opportunities for survival to women?
  - Were social-economic standing a factor in survival rate?
  - What is the relationship between passenger age and survival?
+
+![alt text](image/image1.png)
