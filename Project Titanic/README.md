@@ -12,3 +12,7 @@ This notebook presents a profound exploratory analysis of the dataset in order t
  - What is the relationship between passenger age and survival?
 
 ![alt text](image/image1.png)
+![alt text](image/image2.png)
+![alt text](image/image3.png)
+![alt text](image/image4.png)
+![alt text](image/image5.png)
