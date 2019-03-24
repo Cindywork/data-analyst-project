@@ -9,3 +9,4 @@ and it is recorded in the transactions training data. If a transaction didn't ha
 - Used missingno to explore and visualized the missing value 
 - Trained with XGBoost and dealt with correlation analysis
 - Explored variables with multicollinearity analysis and univariate analysis
+
