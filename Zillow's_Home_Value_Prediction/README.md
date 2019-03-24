@@ -10,12 +10,12 @@ and it is recorded in the transactions training data. If a transaction didn't ha
 - Trained with XGBoost and dealt with correlation analysis
 - Explored variables with multicollinearity analysis and univariate analysis
 
- ![alt text](image/image1.png)
- ![alt text](image/image2.png)
- ![alt text](image/image3.png)
- ![alt text](image/image4.png)
- ![alt text](image/image5.png)
- ![alt text](image/image6.png)
- ![alt text](image/image7.png)
- ![alt text](image/image8.png)
- ![alt text](image/image9.png)
+ ![alt text](images/image1.png)
+ ![alt text](images/image2.png)
+ ![alt text](images/image3.png)
+ ![alt text](images/image4.png)
+ ![alt text](images/image5.png)
+ ![alt text](images/image6.png)
+ ![alt text](images/image7.png)
+ ![alt text](images/image8.png)
+ ![alt text](images/image9.png)
