@@ -22,6 +22,8 @@ The solutions are located inside './Solution' folder, there you can find:
 
 * Implemented TextCNN and trained with PyTorch on a 10K records to identify whether the receipt item is preventive and achieved 0.98 accuracy
 
+* Completed the visulization with Power BI
+
 
  ![alt text](Images/PetPic01.jpg)
  ![alt text](Images/PetPic02.jpg)
