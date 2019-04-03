@@ -9,4 +9,6 @@
 ## Titanic analysis
 ![alt text](Images/image5.png)
 
+## Zillow Home Value Prediction
+![alt text](Images/image2.png)
 
