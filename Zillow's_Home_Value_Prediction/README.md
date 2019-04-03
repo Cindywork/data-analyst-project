@@ -1,5 +1,5 @@
 # Zillow Real-Estate Exploratory Data Analysis
-## Python, eda, XGBoost, time series
+##Jupyter Notebook, python, EDA, XGBoost, time series, seaborn, missingno, numpy, pandas
 
 evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as： 
 

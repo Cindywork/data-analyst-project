@@ -13,6 +13,7 @@ This a dashboard shows sales profit according to employees and different sales t
 ![alt text](Images/image1.png)
 
 ## Titanic analysis
+### Jupyter Notebook, python, numpy, pandas, Matplotlib, EDA
 - Imported and cleaned the Titanic passengers dataset with 891 records.
 - Explored the dataset, created visualisations with matplot to demonstrate distributions of survivors based on rate, age, sex, ticket class, embark port, etc.
 - Analysed the dataset based on the visualisations, inference facts about the datasets.
@@ -20,7 +21,7 @@ This a dashboard shows sales profit according to employees and different sales t
 ![alt text](Images/image5.png)
 
 ## Zillow Home Value Prediction
-
+### Jupyter Notebook, python, EDA, XGBoost, time series, seaborn, missingno, numpy, pandas
 - Imported and cleaned the house price dataset with 300k records
 - Used missingno to explore and visualized the missing value 
 - Trained with XGBoost and dealt with correlation analysis
