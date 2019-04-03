@@ -1,4 +1,4 @@
-# A dashboard for  2018 sales created by Power BI
+# Dashboard for  2018 sales created by Power BI
 ## This a dashboard shows sales profit according to employees and different sales territories. 
 ### Sales performance report requirements 
 
