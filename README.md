@@ -1,7 +1,6 @@
 # Data analysis project
 
 ## Pet Insurance
-### Implementation Details
 * Used TorchText to preprocess the text and transform it into GloVe vectors 
 * Implemented TextCNN and trained with PyTorch on a 10K records to identify whether the receipt item is preventive and achieved 0.98 accuracy 
 * Completed the visulization with Power BI
