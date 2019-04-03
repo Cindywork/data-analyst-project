@@ -11,8 +11,8 @@ Use the data contained in p2_data.csv to build a binary classifier to predict th
 * Completed the visulization with Power BI
 
 
-T
-he original files are put into the folder './Original'
+### Files information
+The original files are put into the folder './Original'
 
 The solutions are located inside './Solution' folder, there you can find:
 
