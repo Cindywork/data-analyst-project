@@ -11,6 +11,13 @@ This notebook presents a profound exploratory analysis of the dataset in order t
  - Were social-economic standing a factor in survival rate?
  - What is the relationship between passenger age and survival?
 
+## Conclusions:
+- Female has a much higher survival rate than male (74% vs 19%).
+- Higher ticket class also means higher survival rate (With class 1 of 64% vs class 3 of 24%)
+- Senior Female has the highest survival rate among females, while senior male the opposite.
+- 54% of the survivors are children.
+
+
 ![alt text](image/image1.png)
 ![alt text](image/image2.png)
 ![alt text](image/image3.png)
