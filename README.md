@@ -16,6 +16,10 @@ This a dashboard shows sales profit according to employees and different sales t
 ![alt text](Images/image1.png)
 
 ## Titanic analysis
+- Imported and cleaned the Titanic passengers dataset with 891 records.
+- Explored the dataset, created visualisations with matplot to demonstrate distributions of survivors based on rate, age, sex, ticket class, embark port, etc.
+- Analysed the dataset based on the visualisations, inference facts about the datasets.
+
 ![alt text](Images/image5.png)
 
 ## Zillow Home Value Prediction
