@@ -27,4 +27,6 @@ This a dashboard shows sales profit according to employees and different sales t
 - Explored variables with multicollinearity analysis and univariate analysis
 
 ![alt text](Images/image2.png)
+![alt text](Images/image8.png)
+
 
