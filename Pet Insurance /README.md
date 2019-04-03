@@ -1,3 +1,8 @@
+## Description
+When we recevie invoice data from our customers, it is structured by line item. Our product does not cover routine, wellness or preventive care. We believe that costs that pet owners can expect periodically and budget for should be separate from an insurance policy meant to cover accidents and illnesses.
+
+Use the data contained in p2_data.csv to build a binary classifier to predict the “PreventiveFlag” label using the text features provided. This model can be used to automate the detection of ineligible line items. The expected output are prediction probabilities for rows 10001 through 11000, where the labels are currently null.
+
 ## Implementation Details
 * Used TorchText to preprocess the text and transform it into GloVe vectors 
 
