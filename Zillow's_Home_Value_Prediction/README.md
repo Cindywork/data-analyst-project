@@ -3,7 +3,7 @@
 
 evaluated on Mean Absolute Error between the predicted log error and the actual log error. The log error is defined as： 
 
-### **logerror=log(Zestimate)−log(SalePrice)**
+#### **logerror=log(Zestimate)−log(SalePrice)**
 
 It is recorded in the transactions training data. If a transaction didn't happen for a property during that period of time, that row is ignored and not counted in the calculation of MAE.
 
