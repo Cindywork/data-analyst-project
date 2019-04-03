@@ -13,7 +13,7 @@ This a dashboard shows sales profit according to employees and different sales t
 
 ![alt text](Images/image1.png)
 
-## Titanic analysis
+## Titanic Survival Exploration
 ### Jupyter Notebook, python, numpy, pandas, Matplotlib, EDA
 - Imported and cleaned the Titanic passengers dataset with 891 records.
 - Explored the dataset, created visualisations with matplot to demonstrate distributions of survivors based on rate, age, sex, ticket class, embark port, etc.
